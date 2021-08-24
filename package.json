@@ -1,0 +1,26 @@
+{
+  "name": "numbers_to_azeri_translator",
+  "version": "1.0.0",
+  "description": "Rəqəmləri Azərbaycan dilinə tərcümə edərək string qaytarır",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elshadaghazade/numbers_to_azeri_translator.git"
+  },
+  "keywords": [
+    "rəqəmlər",
+    "azəri",
+    "azərbaycanca",
+    "rəqəm",
+    "adları"
+  ],
+  "author": "Elshad Aghazade",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elshadaghazade/numbers_to_azeri_translator/issues"
+  },
+  "homepage": "https://github.com/elshadaghazade/numbers_to_azeri_translator#readme"
+}
