@@ -19,6 +19,3 @@ console.log(translator.translate());
 ```
 
 Nəticə: ***üç milyard dörd yüz əlli altı milyon altı yüz yetmiş beş min dörd yüz otuz***
-
-## TEST
-Test etmək üçün ***npm run test*** komandasını çağırın
