@@ -11,15 +11,11 @@ class NumberAzeriTranslator {
         const arr = [];
         let number = this.number;
     
-        while (divider < number) {
+        while (divider <= number) {
             const remain = number % (divider * 10);
             number -= remain;
             arr.push(remain / (10 ** arr.length));
             divider *= 10;
-        }
-
-        if (arr.filter(x => x === 0).length === arr.length) {
-            arr.push(1);
         }
     
     

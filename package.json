@@ -1,10 +1,10 @@
 {
   "name": "numbers_to_azeri_translator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Rəqəmləri Azərbaycan dilinə tərcümə edərək string qaytarır",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/elshadaghazade/numbers_to_azeri_translator/issues"
   },
-  "homepage": "https://github.com/elshadaghazade/numbers_to_azeri_translator#readme"
+  "homepage": "https://github.com/elshadaghazade/numbers_to_azeri_translator#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
 }
